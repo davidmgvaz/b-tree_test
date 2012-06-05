@@ -1,0 +1,9 @@
+To run:
+
+Adjust variables in run.sh
+
+mkdir boutput
+mkdir output
+tar xvjf data.tar.bz2
+
+./run.sh
